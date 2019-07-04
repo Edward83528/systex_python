@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d0c6184-c625-4ef8-ba87-18a1bd993cd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/py27lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2_import.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo30_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo3_ide1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo4_divide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo5_rocound2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo6_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demp9_mutability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python10_complax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python11_fractions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python12_dec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python13_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python7_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="21">
-                <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -334,6 +298,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562123498343</updated>
     </task>
+    <task id="LOCAL-00001" summary="init project commit with readme">
+      <created>1562212144017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562212144017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -349,17 +321,17 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3960396" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32956153" />
@@ -367,6 +339,36 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project commit with readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project commit with readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -600,8 +602,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
