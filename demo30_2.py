@@ -16,6 +16,7 @@ updatestr = {'s2': 999999}
 sale.update(updatestr)  # 更新字典
 print sale
 
+
 for i in sale.items():
     print i[0], i[1]  # 印出key value
 for i1, i2 in sale.items():  # 第二種寫法印出key value
